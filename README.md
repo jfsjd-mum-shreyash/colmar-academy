@@ -20,4 +20,4 @@ This project was created with:
 
 # Live Demo
 
-[demo](demo)
+[Link](https://colmar-academy.shreyash.codes/)
