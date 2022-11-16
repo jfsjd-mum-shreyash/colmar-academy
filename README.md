@@ -1,6 +1,6 @@
 # Colmar Academy | Generation India
 
-This is Generation India Task completedit is build with HTML, CSS, Boostrap.
+This is Generation India Task, It is build with HTML, CSS, Boostrap.
 
 # Screenshots
 
